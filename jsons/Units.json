@@ -16,7 +16,7 @@
 	},
 	{
 		"name": "Combat Worker",
-		"unitType": ["Civilian", "Melee"]
+		"unitType": "Melee",
 		"movement": 3,
 		"strength": 6,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
