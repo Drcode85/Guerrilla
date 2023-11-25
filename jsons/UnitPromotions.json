@@ -4,7 +4,7 @@
 		"name": "Guerrilla",
 		"prerequisites": ["Shock III","Drill III"],
 		"uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>","[+25]% Strength <when fighting in [Forest] tiles>"],
-		"unitTypes": ["Gunpowder", "Gunpowder", "Melee"],
+		"unitTypes": ["Gunpowder", "Gunpowder", "Melee", "Sword"],
 		"column": 7,
                 "row": 5
     }
