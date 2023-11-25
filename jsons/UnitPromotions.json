@@ -1,7 +1,7 @@
 [
 
 	{
-		"name": "Guerrilla",\
+		"name": "Guerrilla",
 		"prerequisites": ["Woodsman"],
 		"uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>","[+25]% Strength <when fighting in [Forest] tiles>"],
 		"unitTypes": ["Gunpowder", "Gunpowder", "Melee"],
