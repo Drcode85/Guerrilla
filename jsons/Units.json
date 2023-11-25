@@ -13,5 +13,14 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Combat Worker",
+		"unitType": ["Civilian", "Melee"]
+		"movement": 3,
+		"strength": 6,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 220
+		"attackSound": "nonmetalhit"
 	}
 ]
