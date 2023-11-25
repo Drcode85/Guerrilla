@@ -1,0 +1,10 @@
+[
+
+	{
+		"name": "Guerrilla",
+		"uniques": ["[+25]% Strength <when fighting in [Jungle] tiles>","[+25]% Strength <when fighting in [Forest] tiles>"],
+		"unitTypes": ["Gunpowder", "Gunpowder", "Melee"],
+        "row": 0,
+        "column": 0
+    }
+]
