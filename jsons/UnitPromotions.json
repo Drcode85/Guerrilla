@@ -11,7 +11,7 @@
      {
 		"name": "Multi Terrain Fighter",
 		"prerequisites": ["Shock III","Drill III"],
-		"uniques": ["[+25]% Strength <when fighting in [All] tiles"],
+		"uniques": ["[+25]% Strength <when fighting in [All] tiles>"],
 		"unitTypes": ["Gunpowder", "Gunpowder", "Melee", "Sword"],
 		"column": 7,
                 "row": 6
